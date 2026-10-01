@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+node_modules/
+__pycache__/
+*.mp4
+*.mov
+*.png
+*.jpg
+*.zip

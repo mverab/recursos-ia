@@ -7,6 +7,7 @@ Prompts, guías y checklists gratuitos para acompañar los videos de Vera Badía
 | Recurso | Qué incluye | Nivel |
 | --- | --- | --- |
 | [Landings cinematográficas](recursos/landings-cinematograficas/README.md) | Dos prompts reutilizables: escritorio primero, móvil después; guía y checklist de verificación | Intermedio |
+| [Claude Mods](recursos/claude-mods/README.md) | Dos mods listos para instalar en Claude Code: generación de imágenes/video con Higgsfield y vista limpia sin ruido | Intermedio |
 
 **No necesitas saber Git.** Abre el recurso, entra al prompt y copia su contenido. Para descargar todo, usa **Code → Download ZIP** en esta página.
 

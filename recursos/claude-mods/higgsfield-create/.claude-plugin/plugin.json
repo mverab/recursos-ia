@@ -1,0 +1,6 @@
+{
+  "name": "higgsfield-create",
+  "version": "0.1.0",
+  "author": { "name": "Reconstrucción local original" },
+  "description": "Reconstrucción original /create nativa. Backend CLI oficial, no MCP original."
+}

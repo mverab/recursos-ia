@@ -1,0 +1,1 @@
+{"name":"claude-mods-clean-view","version":"0.1.0","private":true,"type":"module","scripts":{"test":"tsx --test checks/*.check.ts","typecheck":"tsc -p tsconfig.json"},"devDependencies":{"tsx":"4.20.6","typescript":"5.9.3","@types/node":"22.19.0"}}

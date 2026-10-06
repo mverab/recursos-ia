@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2023",
+    "lib": ["es2023"],
+    "types": [],
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "allowImportingTsExtensions": true
+  },
+  "include": [
+    "hooks/**/*.ts",
+    "hooks/**/*.tsx",
+    "types/**/*.d.ts",
+    "tests/*.test.ts"
+  ]
+}

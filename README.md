@@ -10,6 +10,7 @@ Prompts, guías y checklists gratuitos para acompañar los videos de Vera Badía
 | [Claude Mods](recursos/claude-mods/README.md) | Dos mods listos para instalar en Claude Code: generación de imágenes/video con Higgsfield y vista limpia sin ruido | Intermedio |
 | [Ingeniería inversa con REA](recursos/rea-ingenieria-inversa/README.md) | Prompts para entender una función de una app sin su código, verificarla y construir tu versión; checklist y práctica con un binario propio | Intermedio |
 | [De referencias a briefs de anuncios](recursos/jev-ads-studio/README.md) | Un prompt para construir una base local del flujo Jev + Ads Studio: referencias manuales, conteos y prompts para tus anuncios; sin APIs | Básico |
+| [No leas el código: revisa esto](recursos/revisar-sin-leer-codigo/README.md) | Un prompt para que tu agente te entregue un reporte de revisión antes de cada commit y un checklist de 10 puntos | Básico |
 
 **No necesitas saber Git.** Abre el recurso, entra al prompt y copia su contenido. Para descargar todo, usa **Code → Download ZIP** en esta página.
 

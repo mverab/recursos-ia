@@ -27,7 +27,7 @@ Reinstalar la app no lo arregla: la computadora privada se guarda aparte, en `~/
 ## 3. Conectar un modelo
 
 - [ ] **ChatGPT Plus o Pro:** elige «OpenAI», inicia sesión con tu cuenta y confirma el código del correo. Usa tu plan, sin costo extra.
-- [ ] **Kimi:** Nod no tiene inicio de sesión para la suscripción de Kimi. La opción «Moonshot AI» (Settings → Models → Add) pide una clave de platform.kimi.ai, que cobra por uso con saldo de esa cuenta. Si te marca «insufficient balance», revisa que la clave sea de la misma organización donde tienes saldo.
+- [ ] **Kimi (con tu plan de Kimi Code):** Settings → Models → Add → «OpenAI-compatible». En «Server address» pon `https://api.kimi.com/coding/v1` y en «API key» tu clave del plan (`sk-kimi-…`, la sacas de la consola de Kimi Code). Conecta y elige «Kimi for Coding». La opción «Moonshot AI» es otra cosa: la API de platform.kimi.ai, que cobra por uso.
 - [ ] **Claude:** solo con clave de API; tu suscripción de Claude no sirve aquí.
 - [ ] Pregúntale «¿qué modelo eres?» para confirmar cuál responde.
 - [ ] Revisa la pestaña Usage después de cada encargo.

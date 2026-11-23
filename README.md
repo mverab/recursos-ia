@@ -11,6 +11,7 @@ Prompts, guías y checklists gratuitos para acompañar los videos de Vera Badía
 | [Ingeniería inversa con REA](recursos/rea-ingenieria-inversa/README.md) | Prompts para entender una función de una app sin su código, verificarla y construir tu versión; checklist y práctica con un binario propio | Intermedio |
 | [De referencias a briefs de anuncios](recursos/jev-ads-studio/README.md) | Un prompt para construir una base local del flujo Jev + Ads Studio: referencias manuales, conteos y prompts para tus anuncios; sin APIs | Básico |
 | [No leas el código: revisa esto](recursos/revisar-sin-leer-codigo/README.md) | Un prompt para que tu agente te entregue un reporte de revisión antes de cada commit y un checklist de 10 puntos | Básico |
+| [Gemini 4 Neon vs Claude Opus 5.5](recursos/gemini4-neon-vs-opus/README.md) | Los 4 prompts del video: landing cinematográfica en código, videojuego 3D, bug real y análisis de títulos de YouTube, con los resultados de cada modelo | Básico |
 | [Nod: primer arranque sin dolor](recursos/nod-primer-arranque/README.md) | Checklist para instalar Nod, conectar ChatGPT o Kimi y salir del atasco del primer arranque, más 5 encargos para probarlo sin tu correo real | Básico |
 
 **No necesitas saber Git.** Abre el recurso, entra al prompt y copia su contenido. Para descargar todo, usa **Code → Download ZIP** en esta página.

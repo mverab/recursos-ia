@@ -13,6 +13,7 @@ Prompts, guías y checklists gratuitos para acompañar los videos de Vera Badía
 | [No leas el código: revisa esto](recursos/revisar-sin-leer-codigo/README.md) | Un prompt para que tu agente te entregue un reporte de revisión antes de cada commit y un checklist de 10 puntos | Básico |
 | [Gemini 4 Neon vs Claude Opus 5.5](recursos/gemini4-neon-vs-opus/README.md) | Los 4 prompts del video: landing cinematográfica en código, videojuego 3D, bug real y análisis de títulos de YouTube, con los resultados de cada modelo | Básico |
 | [Nod: primer arranque sin dolor](recursos/nod-primer-arranque/README.md) | Checklist para instalar Nod, conectar ChatGPT o Kimi y salir del atasco del primer arranque, más 5 encargos para probarlo sin tu correo real | Básico |
+| [Inkling 2 Mini en una Mac de 16 GB](recursos/inkling-2-mini-local/README.md) | Comandos para correrlo gratis y sin internet, la receta que lo llevó de 6 a 19.8 tokens/s, un script que mide tu memoria antes de cargar y los 4 prompts del video | Intermedio |
 
 **No necesitas saber Git.** Abre el recurso, entra al prompt y copia su contenido. Para descargar todo, usa **Code → Download ZIP** en esta página.
 
